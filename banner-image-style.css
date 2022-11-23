@@ -1,0 +1,24 @@
+#index-course-qc-img{
+    background-image: url(../images/index/infoimage.jpeg);
+    
+    padding-top: 0rem;
+    padding-bottom: 0rem;
+    }
+@media (min-width:576px) {
+    #index-course-qc-img{
+    background-size: cover;
+        background-position:43% 42%;
+            padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+}
+@media (min-width:1200px) {
+    #index-course-qc-img{
+        padding-top: 3rem;
+    padding-bottom: 3rem;
+    background-size: 100%;
+    background-position: 45% 50%;
+            padding-top: 3rem;
+    padding-bottom: 3rem;
+    }
+}

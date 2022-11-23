@@ -1,0 +1,167 @@
+#bim-course-banner h1 {
+    color: #003366;
+}
+    #bim-course-banner h1 {
+        font-size:2.5rem;
+    }
+
+    #bim-course-banner h3 {
+        font-size: 1.3rem;
+    }
+  #bim-course-banner {
+    top: 18%;
+    left: 18vw;
+    }
+     #index-banner-1 h1 {
+        font-size: 1.4rem;
+    }
+
+    #index-banner-1 h3 {
+        font-size: 1rem;
+    }
+.nav-link p{
+
+    width: 100%;
+    margin-bottom: 0;
+    font-size: 0.80rem;
+
+}
+.target-h1{
+    font-size: 2rem;
+    color: #072970;
+    font-weight: 700;
+    padding-top: 15px;
+    padding-left: 15px;
+}
+.custom-index-slider-text p{
+    
+}
+.phone-disabled{
+    display: none;
+}
+#custom-index-support-p {
+    font-size: 0.8rem;
+}
+
+@media (min-width:576px) {
+
+    .phone-disabled{
+        display: contents;
+}
+    .custom-index-slider-text p{
+    font-size: 1.1rem;
+}
+    .nav-link p{
+    /* text-align: left; */
+    width: 100%;
+    margin-bottom: 0;
+   font-size: xx-small;
+    }
+    
+    #bim-course-banner {
+    top: 34%;
+    left: 21%;
+    }
+    #index-support h1 {
+        font-size: 1rem;
+    }
+
+    #index-banner-1 h1 {
+        font-size: 2.0rem;
+    }
+
+    .coures-intro h3 {
+        font-size: 1.3rem;
+    }
+      #bim-course-banner h1 {
+        font-size: 3rem;
+    }
+
+    #bim-course-banner h3 {
+        font-size: 1.5rem;
+    }
+  
+
+
+
+}
+
+@media (min-width:768px) {
+    #bim-course-banner h1 {
+        font-size: 3rem;
+    }
+
+    #bim-course-banner h3 {
+        font-size: 1.5rem;
+    }
+
+    .coures-intro h3 {
+        font-size: 1.3rem;
+    }
+
+    #index-support h1 {
+        font-size: 2rem;
+    }
+
+    #index-banner-1 h1 {
+        font-size: 2.4rem;
+    }
+
+    #index-banner-1 h3 {
+        font-size: 1.2rem;
+    }
+
+    .coures-intro h3 {
+        font-size: 1.3rem;
+    }
+
+}
+
+@media (min-width:1200px) {
+    
+        .nav-link p{
+         font-size: large;
+    text-align: center;
+    }
+      #custom-index-support-p{
+        font-size: 1.15rem;
+    }
+    
+    
+    p {
+        font-size: 1rem;
+    }
+
+    h2 {
+        font-size: 1.7rem;
+    }
+
+    #index-support h1 {
+            padding-bottom: 15px;
+        font-size: 2.4rem;
+    }
+
+    #index-banner-1 h1 {
+        font-size: 3rem;
+    }
+
+    #index-banner-1 h3 {
+        font-size: 1.8rem;
+    }
+
+    #bim-course-banner h1 {
+        font-size: 4rem;
+    }
+
+    #bim-course-banner h3 {
+        font-size: 2rem;
+    }
+
+    .coures-intro h3 {
+        font-size: 1.3rem;
+    }
+
+
+
+
+}
